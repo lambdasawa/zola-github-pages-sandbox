@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://lambdasawa.dev"
+base_url = "https://lambdasawa.github.io/zola-github-pages-sandbox/"
 
 theme = "terminimal"
 
